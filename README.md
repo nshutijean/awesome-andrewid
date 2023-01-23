@@ -9,15 +9,24 @@ The list below was collected and gathered on a basis of personal experience. If 
 
 **Table of Contents**
 - [Courses](#courses)
-- [Data related (Data Science, Machine Learning, etc)](#data)
-- [Software Development/Engineering](#software)
-- [Cybersecurity](#cybersecurity)
-- [Networking](#networking)
-- [Entrepreneurship](#entrepreneurship)
+- Tools
+  - [IDEs](#ides)
+  - [Editors](#editors)
+  - [Miscellaneous](#misc)
+- Platforms
+  - [Cloud](#cloud)
+  - [Miscellaneous](#misc)
+- [Libraries](#libraries)
 - [Miscellaneous](#misc)
 
 ## **Courses**
-- [GitHub Education Pack](https://education.github.com/pack) - With your andrewid, you can get free access to several platforms and tools, including GitHub Pro, Travis CI, free 3 months to DataCamp, free 6 months to Frontend Masters, and more.
+- [✅ GitHub Education Pack](https://education.github.com/pack) - With your andrewid, you can get free access to several platforms and tools, including GitHub Pro, Travis CI, free 3 months to DataCamp, free 6 months to Frontend Masters, and more.
   - Add your andrew email to your GitHub account and follow these [instructions](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack) to know more.
-- [Coursera](https://www.coursera.org/) - With your andrewid, you can get access to one course for free, with a certificate of completion.
-- [LinkedIn Learning](https://www.linkedin.com/learning/) - With your andrewid, you can get access several courses for free, with certificates of completion. Pair your andrewid with your LinkedIn account to get access to more courses.
+- [✅ Coursera](https://www.coursera.org/) - With your andrewid, you can get access to one course for free, with a certificate of completion.
+- [✅ LinkedIn Learning](https://www.linkedin.com/learning/) - With your andrewid, you can get access several courses for free, with certificates of completion. Pair your andrewid with your LinkedIn account to get access to more courses.
+
+## **Tools**
+### **IDEs**
+- [✅ JetBrains](https://www.jetbrains.com/) - With your andrewid, you can get access to some of JetBrains' IDEs for free, including IntelliJ IDEA, PyCharm, DataSpell, and more.
+  - Add your andrew email to your JetBrains account and follow these [instructions](https://www.jetbrains.com/community/education/#students) to know more.
+  - It's renewed every other school year, so you'll need to reapply for it.
