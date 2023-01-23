@@ -7,13 +7,14 @@ To find where a review is needed or not, check these icons:
 
 The list below was collected and gathered on a basis of personal experience. If you have any suggestions, please check the [contribution guidelines](CONTRIBUTING.md) and submit a pull request.
 
-**Table of Contents**
-- [**Courses**](#courses)
-- [**Tools**](#tools)
-- [**Platforms**](#platforms)
-- [**Libraries**](#libraries)
-- [**Miscellaneous**](#miscellaneous)
-
+## **Table of Contents**
+- [Awesome AndrewID](#awesome-andrewid)
+  - [**Table of Contents**](#table-of-contents)
+  - [**Courses**](#courses)
+  - [**Tools**](#tools)
+  - [**Platforms**](#platforms)
+  - [**Libraries**](#libraries)
+  - [**Miscellaneous**](#miscellaneous)
 ## **Courses**
 - [✅ GitHub Education Pack](https://education.github.com/pack) - With your andrewid, you can get free access to several platforms and tools, including GitHub Pro, Travis CI, free 3 months to DataCamp, free 6 months to Frontend Masters, and more.
   - Add your andrew email to your GitHub account and follow these [instructions](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack) to know more.
