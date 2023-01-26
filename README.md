@@ -7,6 +7,14 @@ To find where a review is needed or not, check these icons:
 
 The list below was collected and gathered on a basis of personal experience. If you have any suggestions, please check the [contribution guidelines](CONTRIBUTING.md) and submit a pull request.
 
+- **Table of Contents**
+  - [**Courses**](#courses)
+  - [**Tools**](#tools)
+  - [**Platforms**](#platforms)
+  - [**Libraries**](#libraries)
+  - [**Miscellaneous**](#miscellaneous)
+
+
 ## **Courses**
 - [✅ GitHub Education Pack](https://education.github.com/pack) - With your andrewid, you can get free access to several platforms and tools, including GitHub Pro, Travis CI, free 3 months to DataCamp, free 6 months to Frontend Masters, and more.
   - Add your andrew email to your GitHub account and follow these [instructions](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack) to know more.
@@ -45,7 +53,7 @@ The list below was collected and gathered on a basis of personal experience. If 
 [✅ Notion Pro](https://www.notion.so/) - Notion is a note-taking app that allows you to create notes, to-do lists, and more. With your andrewid, you can get it for free through **Notion Education Plus Plan**.
  - To learn more, follow these [instructions](https://www.notion.so/help/notion-for-education).
 
-[✅ Figma Pro](https://www.figma.com/) - Figma is a collaborative interface design tool. With your andrewid, you can get full features for a paid plan for free.
+[✅ Figma Pro](https://www.figma.com/) - Figma is a collaborative interface design tool. With your andrewid, you can get full features of a paid plan for free.
   - To access it, create an account with your andrewid and/or follow these [instructions](https://help.figma.com/hc/en-us/articles/360041061214-Verify-education-status) to verify your education status.
   - Or click *Get Verified* button on the [Figma Education page](https://www.figma.com/education/students/) and follow the instructions.
 
