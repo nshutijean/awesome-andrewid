@@ -3,7 +3,7 @@ A curated list of all possible resources (tools, courses, platforms, etc) an and
 
 To find where a review is needed or not, check these icons:
 - ✅ - Done
-- ❓ - Needs review
+- ❓ - Needs extensive review
 
 The list below was collected and gathered on a basis of personal experience. If you have any suggestions, please check the [contribution guidelines](CONTRIBUTING.md) and submit a pull request.
 
@@ -57,5 +57,6 @@ The list below was collected and gathered on a basis of personal experience. If 
   - To access it, create an account with your andrewid and/or follow these [instructions](https://help.figma.com/hc/en-us/articles/360041061214-Verify-education-status) to verify your education status.
   - Or click *Get Verified* button on the [Figma Education page](https://www.figma.com/education/students/) and follow the instructions.
 
+[✅ Adobe Express Premium](https://www.adobe.com/express/) - Adobe Express (previously Adobe Spark) lets you quickly and easily create standout social graphics, flyers, logos, posters, labels, invitations, business cards and more on mobile and web with our intuitive content maker. It's the perfect alternative to [Canva](https://www.canva.com/). Just signup with your andrewid.
 
 
