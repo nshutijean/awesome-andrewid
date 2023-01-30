@@ -34,6 +34,14 @@ The list below was collected and gathered on a basis of personal experience. If 
 - [✅ GitLens Pro](https://gitlens.amod.io/) - A VSCode extension that helps you visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
   - Follow the GitHub Education Pack instructions to get access to this tool.
 
+- [✅Travis CI](https://travis-ci.com/) - Travis CI is an open-source, hosted continuous integration service used to build and test software projects hosted on GitHub, Bitbucket, GitLab, etc. Wit GitHub Education Pack activated, you will get private builds for free while you're a student.
+  - Follow the GitHub Education Pack instructions to get access to this tool,
+  - And visit [this page](https://education.travis-ci.com/) to learn more about their education plan.
+
+- [❓Astra Security](https://www.getastra.com/) - Astra Security is a privately held U.S. & India based cyber security company. It offers excellent and reasonably priced security against a number of popular and bothersome exploits, with its exceptional firewall features, you can secure your applications and deliver at scale. As a student, you get **Astra’s Pro Plan for 6 Months**.
+  - Follow the GitHub Education Pack instructions to get access to this tool,
+  - And visit [this page](https://www.getastra.com/github-student-developer-pack) to learn more about their education plan.
+
 ## **Platforms**
 [✅ Microsoft Azure](https://azure.microsoft.com/en-us) - With your andrewid, you can get access to Microsoft Azure for free, with $100 of credit. Follow these [instructions](https://azure.microsoft.com/en-us/free/students/) to learn more.
 
