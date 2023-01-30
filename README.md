@@ -45,9 +45,9 @@ The list below was collected and gathered on a basis of personal experience. If 
 [✅ ScienceDirect](https://www.sciencedirect.com/) - Get access to most ScienceDirect's books and journals for free with your andrewid. 
   - Register with your andrewid or use CMU Cisco AnyConnect VPN to access the site.
 
-[✅ O'Reilly](https://www.oreilly.com/) - With your andrewid, you can read books published by O'Reilly for free.
+[❓ O'Reilly](https://www.oreilly.com/) - With your andrewid, you can read books published by O'Reilly for free.
 
-[✅ Springer](https://link.springer.com/) - With your andrewid, you can get access to most of Springer's books for free.
+[❓ Springer](https://link.springer.com/) - With your andrewid, you can get access to most of Springer's books for free.
 
 ## **Miscellaneous**
 [✅ Notion Pro](https://www.notion.so/) - Notion is a note-taking app that allows you to create notes, to-do lists, and more. With your andrewid, you can get it for free through **Notion Education Plus Plan**.
