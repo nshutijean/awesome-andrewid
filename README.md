@@ -32,7 +32,8 @@ The list below was collected and gathered on a basis of personal experience. If 
   - It's renewed every other school year, so you'll need to renew it.
   
 - [✅ GitLens Pro](https://gitlens.amod.io/) - A VSCode extension that helps you visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
-  - Follow the GitHub Education Pack instructions to get access to this tool.
+  - Follow the GitHub Education Pack instructions to get access to this tool,
+  - And visit [this page](https://www.gitkraken.com/github-student-developer-pack) to learn more about their education plan.
 
 - [✅Travis CI](https://travis-ci.com/) - Travis CI is an open-source, hosted continuous integration service used to build and test software projects hosted on GitHub, Bitbucket, GitLab, etc. Wit GitHub Education Pack activated, you will get private builds for free while you're a student.
   - Follow the GitHub Education Pack instructions to get access to this tool,
@@ -43,28 +44,28 @@ The list below was collected and gathered on a basis of personal experience. If 
   - And visit [this page](https://www.getastra.com/github-student-developer-pack) to learn more about their education plan.
 
 ## **Platforms**
-[✅ Microsoft Azure](https://azure.microsoft.com/en-us) - With your andrewid, you can get access to Microsoft Azure for free, with $100 of credit. Follow these [instructions](https://azure.microsoft.com/en-us/free/students/) to learn more.
+- [✅ Microsoft Azure](https://azure.microsoft.com/en-us) - With your andrewid, you can get access to Microsoft Azure for free, with $100 of credit. Follow these [instructions](https://azure.microsoft.com/en-us/free/students/) to learn more.
 
-[✅ DigitalOcean](https://www.digitalocean.com/) - With your GitHub Education Pack activated, you can get $200 of credit for 1 year.
+- [✅ DigitalOcean](https://www.digitalocean.com/) - With your GitHub Education Pack activated, you can get $200 of credit for 1 year.
 
-[✅ Heroku](https://www.heroku.com/) - With your GitHub Education Pack activated, you can get a credit of $13 per month for a year.
+- [✅ Heroku](https://www.heroku.com/) - With your GitHub Education Pack activated, you can get a credit of $13 per month for a year.
 
 ## **Libraries**
-[✅ ScienceDirect](https://www.sciencedirect.com/) - Get access to most ScienceDirect's books and journals for free with your andrewid. 
+- [✅ ScienceDirect](https://www.sciencedirect.com/) - Get access to most ScienceDirect's books and journals for free with your andrewid. 
   - Register with your andrewid or use CMU Cisco AnyConnect VPN to access the site.
 
-[❓ O'Reilly](https://www.oreilly.com/) - With your andrewid, you can read books published by O'Reilly for free.
+- [❓ O'Reilly](https://www.oreilly.com/) - With your andrewid, you can read books published by O'Reilly for free.
 
-[❓ Springer](https://link.springer.com/) - With your andrewid, you can get access to most of Springer's books for free.
+- [❓ Springer](https://link.springer.com/) - With your andrewid, you can get access to most of Springer's books for free.
 
 ## **Miscellaneous**
-[✅ Notion Pro](https://www.notion.so/) - Notion is a note-taking app that allows you to create notes, to-do lists, and more. With your andrewid, you can get it for free through **Notion Education Plus Plan**.
- - To learn more, follow these [instructions](https://www.notion.so/help/notion-for-education).
+- [✅ Notion Pro](https://www.notion.so/) - Notion is a note-taking app that allows you to create notes, to-do lists, and more. With your andrewid, you can get it for free through **Notion Education Plus Plan**. 
+  - To learn more, follow these [instructions](https://www.notion.so/help/notion-for-education).
 
-[✅ Figma Pro](https://www.figma.com/) - Figma is a collaborative interface design tool. With your andrewid, you can get full features of a paid plan for free.
+- [✅ Figma Pro](https://www.figma.com/) - Figma is a collaborative interface design tool. With your andrewid, you can get full features of a paid plan for free.
   - To access it, create an account with your andrewid and/or follow these [instructions](https://help.figma.com/hc/en-us/articles/360041061214-Verify-education-status) to verify your education status.
   - Or click *Get Verified* button on the [Figma Education page](https://www.figma.com/education/students/) and follow the instructions.
 
-[✅ Adobe Express Premium](https://www.adobe.com/express/) - Adobe Express (previously Adobe Spark) lets you quickly and easily create standout social graphics, flyers, logos, posters, labels, invitations, business cards and more on mobile and web with our intuitive content maker. It's the perfect alternative to [Canva](https://www.canva.com/). Just signup with your andrewid.
+- [✅ Adobe Express Premium](https://www.adobe.com/express/) - Adobe Express (previously Adobe Spark) lets you quickly and easily create standout social graphics, flyers, logos, posters, labels, invitations, business cards and more on mobile and web with our intuitive content maker. It's the perfect alternative to [Canva](https://www.canva.com/). Just signup with your andrewid.
 
 
