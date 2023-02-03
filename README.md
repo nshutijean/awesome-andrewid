@@ -13,6 +13,7 @@ The list below was collected and gathered on a basis of personal experience. If 
   - [**Platforms**](#platforms)
   - [**Libraries**](#libraries)
   - [**Miscellaneous**](#miscellaneous)
+  - [**Roadmap**](#roadmap)
 
 
 ## **Courses**
@@ -70,3 +71,6 @@ The list below was collected and gathered on a basis of personal experience. If 
   - Press the ***Log In with school account*** button on this [page](https://express.adobe.com/sp/) and follow the instructions to get access to Adobe Express Premium.
 
 
+## **Roadmap**
+- [ ] Add more tools and platforms
+- [ ] A website to make it easier to access all of these resources
