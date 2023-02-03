@@ -18,7 +18,8 @@ The list below was collected and gathered on a basis of personal experience. If 
 
 ## **Courses**
 - [✅ GitHub Education Pack](https://education.github.com/pack) - With your andrewid, you can get free access to several platforms and tools, including GitHub Pro, Travis CI, free 3 months to DataCamp, free 6 months to Frontend Masters, and more.
-  - Add your andrew email to your GitHub account and follow these [instructions](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack) to know more.
+  - Add your andrew email to your GitHub account. Check [this page](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/adding-an-email-address-to-your-github-account) to learn more.
+  - Then, follow these [instructions](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack) to know extensively how you can activate your GitHub Education Pack.
 - [✅ Coursera](https://www.coursera.org/) - With your andrewid, you can get access to one course for free, with a certificate of completion.
 - [✅ LinkedIn Learning](https://www.linkedin.com/learning/) - With your andrewid, you can get access to several courses for free, with certificates of completion. Pair your andrewid with your LinkedIn account to get access to more courses.
 - [✅ DataCamp](https://www.datacamp.com/) - With GitHub Education Pack activated, you can get access to DataCamp for free for 3 months.
@@ -52,12 +53,14 @@ The list below was collected and gathered on a basis of personal experience. If 
 - [✅ Heroku](https://www.heroku.com/) - With your GitHub Education Pack activated, you can get a credit of $13 per month for a year.
 
 ## **Libraries**
+NB: _If you find any written resource on any recognized platform, look for **Institution Login** Most of the time you will find CMU listed in those institutions. Select it and use your andrewid to login_
+
 - [✅ ScienceDirect](https://www.sciencedirect.com/) - Get access to most ScienceDirect's books and journals for free with your andrewid. 
   - Register with your andrewid or use CMU Cisco AnyConnect VPN to access the site.
 
-- [❓ O'Reilly](https://www.oreilly.com/) - With your andrewid, you can read books published by O'Reilly for free.
+- [✅ O'Reilly](https://www.oreilly.com/) - With your andrewid, you can read books published by O'Reilly for free.
 
-- [❓ Springer](https://link.springer.com/) - With your andrewid, you can get access to most of Springer's books for free.
+- [✅ Springer](https://link.springer.com/) - With your andrewid, you can get access to most of Springer's books for free.
 
 ## **Miscellaneous**
 - [✅ Notion Pro](https://www.notion.so/) - Notion is a note-taking app that allows you to create notes, to-do lists, and more. With your andrewid, you can get it for free through **Notion Education Plus Plan**. 
@@ -72,5 +75,6 @@ The list below was collected and gathered on a basis of personal experience. If 
 
 
 ## **Roadmap**
-- [ ] Add more tools and platforms
+- [ ] Add more resources
 - [ ] A website to make it easier to access all of these resources
+- [ ] Add more resources
