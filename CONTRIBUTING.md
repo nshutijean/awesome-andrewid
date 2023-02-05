@@ -6,7 +6,7 @@ Maintainers and contributors should adhere to [this](https://github.com/spring-p
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Before contributing, do a thorough exploration of the platform, course or any other resource you are contributing to.
 - Try it yourself before suggesting it to others.
-- Use the following format: `[resource](link) - Description`
+- Use the following format: `[resource](link) - Description and steps as bullet points`
   - A link to the root resource
   - A small description of the resource
   - Clearly defined steps of recreating the access
