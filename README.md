@@ -70,7 +70,14 @@ NB: _When/if you find any written resource on any recognized platform, look for 
   - To access it, create an account with your andrewid and/or follow these [instructions](https://help.figma.com/hc/en-us/articles/360041061214-Verify-education-status) to verify your education status.
   - Or click *Get Verified* button on the [Figma Education page](https://www.figma.com/education/students/) and follow the instructions.
 
-- [✅ Adobe Express Premium](https://www.adobe.com/express/) - Adobe Express (previously Adobe Spark) lets you quickly and easily create standout social graphics, flyers, logos, posters, labels, invitations, business cards and more on mobile and web with our intuitive content maker. It's the perfect alternative to [Canva](https://www.canva.com/). 
+- [✅ Adobe Express Premium](https://www.adobe.com/express/) - Adobe Express (previously Adobe Spark) lets you quickly and easily create standout social graphics, flyers, logos, posters, labels, invitations, business cards and more on mobile and web. It's the perfect alternative to [Canva](https://www.canva.com/).
+
+Furthermore, the plan includes other services such as Adobe Portfolio, Benance Network, Publish Online, etc
+  - Go to [this page](https://express.adobe.com/sp/) and click ***Log in with school account*** button.
+  - Enter your andrew email manually via a provided input field (not via the Google's widget) and click _Next_. This will redirect you to the CMU's login page.
+  - Enter the usual credentials and you're good to go.
+  - Strictly, follow the above steps to get the premium access
+  - To learn more about the plan visit [this page](https://helpx.adobe.com/express/using/express-for-education.html).
 
 
 ## **Roadmap**
