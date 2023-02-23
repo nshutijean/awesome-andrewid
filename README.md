@@ -55,10 +55,13 @@ The list below was collected and gathered on a basis of personal experience. If 
 ## **Libraries**
 NB: _When/if you find any written resource on any recognized platform, look for **Institution Login**. Most of the time you will find CMU listed in those institutions. Select it and use your Andrewid to login_
 
-- [✅ ScienceDirect](https://www.sciencedirect.com/) - Get access to most ScienceDirect's books and journals for free with your Andrewid. 
-  - Register with your Andrewid or use CMU Cisco AnyConnect VPN to access the site.
+- [✅ O'Reilly](https://www.oreilly.com/) - With your Andrewid, you can read books and watch courses published by O'Reilly for free
+  - After finding the book/course you are looking for, click on the **Sign in** button on the top right corner of the page.
+  - Then enter your andrew email in the provided field and click on **Continue**.
+  - You will be redirected to CMU's login page. Enter your Andrewid and password and click on **Login**.
 
-- [✅ O'Reilly](https://www.oreilly.com/) - With your Andrewid, you can read books published by O'Reilly for free.
+- [✅ ScienceDirect](https://www.sciencedirect.com/) - Get access to most ScienceDirect's books and journals for free with your Andrewid. 
+  - After finding a paper or journal to read, register with your Andrewid or use CMU Cisco AnyConnect VPN to access the site.
 
 - [✅ Springer](https://link.springer.com/) - With your Andrewid, you can get access to most of Springer's books for free.
 
@@ -72,7 +75,7 @@ NB: _When/if you find any written resource on any recognized platform, look for 
 
 - [✅ Adobe Express Premium](https://www.adobe.com/express/) - Adobe Express (previously Adobe Spark) lets you quickly and easily create standout social graphics, flyers, logos, posters, labels, invitations, business cards and more on mobile and web. It's the perfect alternative to [Canva](https://www.canva.com/).
 
-Furthermore, the plan includes other services such as Adobe Portfolio, Benance Network, Publish Online, etc
+  Furthermore, the plan includes other services such as Adobe Portfolio, Benance Network, Publish Online, etc
   - Go to [this page](https://express.adobe.com/sp/) and click ***Log in with school account*** button.
   - Enter your andrew email manually via a provided input field (not via the Google's widget) and click _Next_. This will redirect you to the CMU's login page.
   - Enter the usual credentials and you're good to go.
