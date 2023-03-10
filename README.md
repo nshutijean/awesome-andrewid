@@ -65,6 +65,14 @@ NB: _When/if you find any written resource on any recognized platform, look for 
 
 - [✅ Springer](https://link.springer.com/) - With your andrew email, you can get access to most of Springer's books for free.
 
+- [✅ Wiley Online Library](https://onlinelibrary.wiley.com/) - With your andrew email, you can get access (view and download) to all of Wiley's books and journals for free.
+  - After finding a book you want to read on the platform, sign-in through the **Login/Register** link on your screen's top right
+  - You will be redirected to new page, look for **Institutional Login**
+  - A CMU login page will be redirected to you, enter your credentials and your are there.
+  - Try: [Managing Technology-Based Projects](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118849958) by Hans J. Thamhain
+
+<!-- - [✅ IEEE](https://ieeexplore.ieee.org/) - With your andrew email, you can get access to most of IEEE's books and journals for free. -->
+
 ## **Miscellaneous**
 - [✅ Notion Pro](https://www.notion.so/) - Notion is a note-taking app that allows you to create notes, to-do lists, and more. With your andrew email, you can get it for free through **Notion Education Plus Plan**. 
   - To learn more, follow these [instructions](https://www.notion.so/help/notion-for-education).
