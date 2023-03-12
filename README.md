@@ -63,7 +63,12 @@ NB: _When/if you find any written resource on any recognized platform, look for 
 - [✅ ScienceDirect](https://www.sciencedirect.com/) - Get access to most ScienceDirect's books and journals for free with your andrew email. 
   - After finding a paper or journal to read, register with your andrew email or use CMU Cisco AnyConnect VPN to access the site.
 
-- [✅ Springer](https://link.springer.com/) - With your andrew email, you can get access to most of Springer's books for free.
+- [✅ Springer](https://link.springer.com/) - With your andrew email, you can get access (read and download) to most of Springer's books and journals for free.
+  - After finding the resource, click on the **Log in** button on the top right corner of the page.
+  - A new login page will be opened, click on **Access via your institution**.
+  - Next page, in the search bar, type **Carnegie Mellon University** and select it.
+  - The CMU login page will be opened, enter your andrew email and password and click on **Login**.
+  - You will be redirected to the full, free resource you were looking for.
 
 - [✅ Wiley Online Library](https://onlinelibrary.wiley.com/) - With your andrew email, you can get access (view and download) to all of Wiley's books and journals for free.
   - After finding a book you want to read on the platform, sign-in through the **Login/Register** link on your screen's top right
