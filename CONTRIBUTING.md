@@ -23,6 +23,6 @@ Thank you for your contributions! 😁🚀
 
 <br>
 
-NB: Ping me at [jnshuti@andrew.cmu.edu](mailto:jnshuti@andrew.cmu.edu) or [@kintsugi_boy](https://twitter.com/kintsugi_boy) if you have any questions or concerns.
+NB: Ping me at [jnshuti@alumni.cmu.edu](mailto:jnshuti@alumni.cmu.edu) or [@jean__nshuti](https://twitter.com/jean__nshuti) if you have any questions or concerns.
 
 <!-- [//]: # (Please add your name to the bottom of the list) -->
